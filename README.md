@@ -1,6 +1,4 @@
 ### Hi there 👋
- An Undergrad from IIIT Allahabad. SDE Intern at Walmart Labs Bangalore. Interested in Full Stack Development.
- 
  
 
 <!--
